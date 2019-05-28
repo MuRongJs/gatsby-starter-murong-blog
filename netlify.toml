@@ -1,3 +1,8 @@
 [build]
   publish = "public"
   command = "npm run build"
+[[redirects]]
+  from = "https://sharp-lamarr-99d34f.netlify.com"
+  to = "http://murongjs.github.io"
+  status = 200
+  force = true
