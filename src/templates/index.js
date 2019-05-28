@@ -61,10 +61,10 @@ const Page = ({ pageContext, location }) => {
             }}
           >
             <div className="previousLink">
-              <NavLink test={!first} url={previousUrl} text="Previous" />
+              <NavLink test={!first} url={previousUrl} text="上一页" />
             </div>
             <div className="nextLink">
-              <NavLink test={!last} url={nextUrl} text="Next" />
+              <NavLink test={!last} url={nextUrl} text="下一页" />
             </div>
           </div>
         </div>

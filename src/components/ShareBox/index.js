@@ -28,7 +28,7 @@ const CommentButton = () => (
 
 const ShareBox = ({ url, hasCommentBox }) => (
   <div className="m-share-box">
-    <a
+    {/* <a
       href={`https://www.facebook.com/sharer/sharer.php?u=${url}`}
       title=""
       className="share-button"
@@ -40,10 +40,10 @@ const ShareBox = ({ url, hasCommentBox }) => (
       }
     >
       <FontAwesomeIcon icon={['fab', 'facebook-f']} />
-    </a>
+    </a> */}
 
     {/* 視覺置中 => 稍微往上偏移 */}
-    {hasCommentBox && <CommentButton />}
+    {/* {hasCommentBox && <CommentButton />} */}
 
     <a
       className="share-button"
