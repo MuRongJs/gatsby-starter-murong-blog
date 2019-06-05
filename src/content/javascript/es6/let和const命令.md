@@ -3,7 +3,7 @@ templateKey: blog-post
 id: https://MuRongJs.github.io/javascript/es6/let&const
 title: es6-let&const
 slug: /javascript/es6/let&const
-date: 2018/11/15 22:34:48 
+date: 2018/10/22 22:34:48 
 description: "es6-let&const"
 tags:
   - es6

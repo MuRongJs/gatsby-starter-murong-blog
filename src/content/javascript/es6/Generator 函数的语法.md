@@ -3,7 +3,7 @@ templateKey: blog-post
 id: https://MuRongJs.github.io/javascript/es6/Generator
 title: es6-Generator
 slug: /javascript/es6/Generator02
-date: 2018/11/21 22:34:48 
+date: 2018/11/15 22:34:48 
 description: "es6-Generator"
 tags:
   - es6
