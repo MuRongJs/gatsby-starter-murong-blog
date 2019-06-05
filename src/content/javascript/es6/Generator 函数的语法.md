@@ -1,3 +1,14 @@
+---
+templateKey: blog-post
+id: https://MuRongJs.github.io/javascript/es6/Generator
+title: es6-Generator
+slug: /javascript/es6/Generator02
+date: 2018/11/21 22:34:48 
+description: "es6-Generator"
+tags:
+  - es6
+headerImage: ""
+---
 # 1、简介 #
 ### 基本概念 ###
 Generator是异步编程的一种解决方案。
