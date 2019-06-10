@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/javascript/es6/Promise
+id: https://MuRongJs.github.io/blog/javascript/es6/Promise
 title: es6-Promise
-slug: /javascript/es6/Promise
+slug: /blog/javascript/es6/Promise
 date: 2018/11/10 22:34:48 
 description: "es6-Promise"
 tags:

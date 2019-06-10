@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/javascript/es6/Symbol
+id: https://MuRongJs.github.io/blog/javascript/es6/Symbol
 title: es6-Symbol
-slug: /javascript/es6/Symbol
+slug: /blog/javascript/es6/Symbol
 date: 2018/10/22 22:34:48 
 description: "es6-Symbol"
 tags:

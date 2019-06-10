@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/javascript/es6/Iterator
+id: https://MuRongJs.github.io/blog/javascript/es6/Iterator
 title: es6-Iterator
-slug: /javascript/es6/Iterator
+slug: /blog/javascript/es6/Iterator
 date: 2018/11/14 22:34:48 
 description: "es6-Iterator"
 tags:

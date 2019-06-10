@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/javascript/es6/Proxy
+id: https://MuRongJs.github.io/blog/javascript/es6/Proxy
 title: es6-Proxy
-slug: /javascript/es6/Proxy
+slug: /blog/javascript/es6/Proxy
 date: 2018/10/24 22:34:48 
 description: "es6-Proxy"
 tags:

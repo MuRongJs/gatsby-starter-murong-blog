@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/javascript/es6/set&map
+id: https://MuRongJs.github.io/blog/javascript/es6/set&map
 title: es6-set&map
-slug: /javascript/es6/set&map
+slug: /blog/javascript/es6/set&map
 date: 2018/10/21 22:34:48 
 description: "es6-set&map"
 tags:
