@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/blog/git/gitTool
+id: https://MuRongJs.github.io/blog/git用法/git的用法
 title: git的用法
-slug: /blog/git/gitTool
+slug: /blog/git用法/git的用法
 date: 2018/9/26 22:34:48 
 description: "git工具的基本用法"
 tags:
