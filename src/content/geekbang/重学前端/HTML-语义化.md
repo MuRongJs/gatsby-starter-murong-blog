@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/blog/geekbang/重学前端/HTML语义化
-title: geekbang--HTML语义化
-slug: /blog/geekbang/重学前端/HTML语义化
+id: https://MuRongJs.github.io/blog/geekbang/重学前端/HTML-语义化
+title: geekbang--HTML-语义化
+slug: /blog/geekbang/重学前端/HTML-语义化
 date: 2019/3/27 18:05:22 
 description: "geekbang--HTML语义化"
 tags:

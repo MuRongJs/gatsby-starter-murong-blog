@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/blog/geekbang/重学前端/javascript运行时
+id: https://MuRongJs.github.io/blog/geekbang/重学前端/javascript-运行时
 title: geekbang--javascript运行时
-slug: /blog/geekbang/重学前端/javascript运行时
+slug: /blog/geekbang/重学前端/javascript-运行时
 date: 2019/4/22 9:22:26 
-description: "geekbang--javascript运行时"
+description: "geekbang--javascript-运行时"
 tags:
   - geekbang
 headerImage: ""
