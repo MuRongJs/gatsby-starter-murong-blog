@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/blog/javascript/es6/Iterator
-title: es6-Iterator
-slug: /blog/javascript/es6/Iterator
+id: https://MuRongJs.github.io/blog/es6/Iterator和for...of循环
+title: es6-Iterator和for...of循环
+slug: /blog/es6/Iterator和for...of循环
 date: 2018/11/14 22:34:48 
-description: "es6-Iterator"
+description: "es6-Iterator和for...of循环"
 tags:
   - es6
 headerImage: ""

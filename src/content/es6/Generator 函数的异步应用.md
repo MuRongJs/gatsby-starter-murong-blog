@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/blog/javascript/es6/Generator
-title: es6-Generator
-slug: /blog/javascript/es6/Generator01
+id: https://MuRongJs.github.io/blog/es6/Generator 函数的异步应用
+title: es6-Generator 函数的异步应用
+slug: /blog/es6/Generator 函数的异步应用
 date: 2018/11/15 22:34:48 
-description: "es6-Generator"
+description: "es6-Generator 函数的异步应用"
 tags:
   - es6
 headerImage: ""

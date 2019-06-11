@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/blog/javascript/es6/class
-title: es6-class
-slug: /blog/javascript/es6/class
+id: https://MuRongJs.github.io/blog/es6/Class 的基本用法
+title: es6-Class 的基本用法
+slug: /blog/es6/Class 的基本用法
 date: 2018/11/19 22:34:48 
-description: "es6-class"
+description: "es6-Class 的基本用法"
 tags:
   - es6
 headerImage: ""

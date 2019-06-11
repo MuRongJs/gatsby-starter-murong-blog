@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/blog/javascript/es6/Decorator
+id: https://MuRongJs.github.io/blog/es6/Decorator
 title: es6-Decorator
-slug: /blog/javascript/es6/Decorator
+slug: /blog/es6/Decorator
 date: 2018/11/21 22:34:48 
 description: "es6-Decorator"
 tags:

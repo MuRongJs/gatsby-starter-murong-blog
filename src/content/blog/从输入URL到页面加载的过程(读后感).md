@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/blog/javascript/blog/urlLoader
+id: https://MuRongJs.github.io/blog/blog/从输入URL到页面加载的过程(读后感)
 title: 从输入URL到页面加载的过程(读后感)
-slug: /blog/javascript/blog/urlLoader
+slug: /blog/blog/从输入URL到页面加载的过程(读后感)
 date: 2019/3/18 22:34:48 
 description: "从输入URL到页面加载的过程(读后感)"
 tags:

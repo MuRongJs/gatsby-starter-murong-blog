@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/blog/javascript/es6/Reflect
+id: https://MuRongJs.github.io/blog/es6/Reflect
 title: es6-Reflect
-slug: /blog/javascript/es6/Reflect
+slug: /blog/es6/Reflect
 date: 2018/10/27 22:34:48 
 description: "es6-Reflect"
 tags:

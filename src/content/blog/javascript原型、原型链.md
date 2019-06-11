@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/blog/javascript/blog/prototypeChain
-title: javascript原型链
-slug: /blog/javascript/blog/prototypeChain
+id: https://MuRongJs.github.io/blog/blog/javascript原型、原型链
+title: javascript原型、原型链
+slug: /blog/blog/javascript原型、原型链
 date: 2018/12/26 22:34:48 
-description: "javascript原型链"
+description: "javascript原型、原型链"
 tags:
   - javascript
   - 他人博客读后感

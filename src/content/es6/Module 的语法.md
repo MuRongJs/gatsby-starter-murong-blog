@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-id: https://MuRongJs.github.io/blog/javascript/es6/module02
-title: es6-module02
-slug: /blog/javascript/es6/module02
+id: https://MuRongJs.github.io/blog/es6/Module 的语法
+title: es6-Module 的语法
+slug: /blog/es6/Module 的语法
 date: 2018/11/22 22:34:48 
-description: "es6-module02"
+description: "es6-Module 的语法"
 tags:
   - es6
 headerImage: ""
