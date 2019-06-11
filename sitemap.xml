@@ -3,29 +3,29 @@
 <url> <loc>https://MuRongJs.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://MuRongJs.github.io/pages/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://MuRongJs.github.io/pages/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/geekbang/重学前端/javascript运行时</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/geekbang/重学前端/HTML语义化</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/geekbang/重学前端/javascript-运行时</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/geekbang/重学前端/HTML-语义化</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://MuRongJs.github.io/blog/geekbang/重学前端/前端思考</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/blog/urlLoader</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/blog/从输入URL到页面加载的过程(读后感)</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://MuRongJs.github.io/css/cssOutline</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://MuRongJs.github.io/css/flexLayout</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/git/gitTool</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/blog/prototypeChain</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/module02</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/Decorator</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/module01</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/class</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/async</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/Generator01</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/Generator02</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/Iterator</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/Promise</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/Reflect</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/Proxy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/Symbol</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/let&amp;const</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/es6/set&amp;map</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://MuRongJs.github.io/blog/javascript/blog/copyObject</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/git用法/git的用法</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/blog/javascript原型、原型链</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/Module 的语法</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/Decorator</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/Module 的加载实现</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/Class 的基本用法</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/async函数</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/Generator 函数的异步应用</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/Generator 函数的语法</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/Iterator和for...of循环</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/Promise 对象</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/Reflect</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/Proxy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/let和const命令</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/Symbol</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/es6/Set和Map数据结构</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://MuRongJs.github.io/blog/blog/深拷贝</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://MuRongJs.github.io/tag/geekbang</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://MuRongJs.github.io/tag/知识体系</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://MuRongJs.github.io/tag/他人博客读后感</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
